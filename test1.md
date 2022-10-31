@@ -3,4 +3,4 @@
 hghghg
 1. Point 1
 ## Part 2
-helo from GitHub
+hello from GitHub
